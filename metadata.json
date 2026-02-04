@@ -1,0 +1,6 @@
+
+{
+  "name": "Barman Morakab Kavir - Construction Hub",
+  "description": "A modern, world-class construction materials management and consulting platform for the building industry in Yazd and southern Iran, featuring AI consulting and material calculators.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
